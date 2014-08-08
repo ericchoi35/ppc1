@@ -71,7 +71,7 @@
 	vertical-align: top;
 }
 #main_content h2{
-	background-color: #FFE560;
+	background-color: #60FFF5;
 	padding: 7px 0 7px 7px;
 	font-size: .75em;
 	font-weight: 700;
@@ -96,7 +96,7 @@
 }
 #middle p{
 	display: inline-block;
-	color: #FFE560;
+	color: #60FFF5;
 	font-size: .3em;
 	margin-top: 11px;
 }
