@@ -48,15 +48,15 @@
 	height: 580px;
 	background-color: black;
 }
-	#main_content img{
-		display: inline-block;
-		width: 370px;
-		height: 250px;
-		margin-top: 20px;
-		margin-left: 29px;
-		margin-right: 15px;
-		vertical-align: top;
-	}
+#main_pic{
+	display: inline-block;
+	width: 370px;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 29px;
+	margin-right: 15px;
+	vertical-align: top;
+}
 #small_logo{
 	width: 5px;
 	height: 5px;
@@ -92,8 +92,7 @@
 	height: 30px;
 	width: 60px;
 	vertical-align: top;
-	margin-top: 0;
-	margin-right: 0;
+	margin-left: 30px;
 }
 #middle p{
 	display: inline-block;
@@ -138,7 +137,7 @@
 	font-weight: 700;
 	margin-left: 100px;
 }
-#sub_pic.small_pic{
+.small_pic{
 	margin: 0;
 	width: 212px;
 	height: 100px;
